@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1482190770 source:c:\users\administrator\documents\programy\algo 5\algo 5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
